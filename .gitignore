@@ -3,4 +3,6 @@
 *.zip
 .ipynb_checkpoints/
 .Trash/
-.Trash/
+*.csv
+*.zip
+*.ipynb_checkpoints/
